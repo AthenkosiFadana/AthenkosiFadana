@@ -2,6 +2,8 @@
 
 Computer Science and Biochemistry graduate. I build practical software, support the systems people rely on, and I am deepening my work in cloud and cybersecurity.
 
+**Open to technology opportunities** · South Africa
+
 **[View my portfolio](https://athenkosi-portfolio.vercel.app)** · [CV (PDF)](https://athenkosi-portfolio.vercel.app/Athenkosi-Fadana-CV.pdf) · [Certificates](https://athenkosi-portfolio.vercel.app#certificates) · [LinkedIn](https://www.linkedin.com/in/athenkosi-fadana-41a013235/) · [Email](mailto:athenkosifadana@gmail.com)
 
 ![Portfolio preview](https://raw.githubusercontent.com/AthenkosiFadana/athenkosi-portfolio/main/public/og.png)
