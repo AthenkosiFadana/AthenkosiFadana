@@ -29,6 +29,7 @@ Computer Science and Biochemistry graduate. I build practical software, support 
 | SkillPath | Courses, resume builder and job-application tracker in Flask | | [repo](https://github.com/AthenkosiFadana/skillpath) |
 | DStv IR Controller | ESP32 firmware controlling a decoder from a phone over Wi-Fi | | [repo](https://github.com/AthenkosiFadana/dstv-ir-controller) |
 | Course Catalog API | Spring Boot 3 REST service with an integration test suite | | [repo](https://github.com/AthenkosiFadana/SpringAssignment1) |
+| WDBC Model Comparison | Reproducible ML evaluation study: logistic regression vs decision tree on breast tumour data | | [repo](https://github.com/AthenkosiFadana/wdbc-model-comparison) |
 
 Full descriptions, screenshots and the complete list live on the [portfolio](https://athenkosi-portfolio.vercel.app#projects).
 
